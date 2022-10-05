@@ -1,3 +1,11 @@
+/*
+Author: Patrick Ging
+Course: CSCI-135
+Instructor: Professor Zamansky
+
+main.cpp 
+*/
+
 #include <iostream>
 
 
