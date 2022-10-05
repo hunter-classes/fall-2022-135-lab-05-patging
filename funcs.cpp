@@ -1,7 +1,6 @@
 #include <iostream>
 #include "funcs.h"
 
-// add functions here
 
 bool isDivisibleBy(int n, int d) {
 	// checks if n is divisble by d
